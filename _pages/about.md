@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='http://www.newves.org/wiki/'>MoriLab@Nagoya University</a> Postdoctoral Researcher at Nagoya University
 
 profile:
   align: right
