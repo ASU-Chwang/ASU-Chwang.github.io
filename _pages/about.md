@@ -6,7 +6,7 @@ subtitle: <a href='http://www.newves.org/wiki/'>MoriLab@Nagoya University</a> Po
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: chwang-photo.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
