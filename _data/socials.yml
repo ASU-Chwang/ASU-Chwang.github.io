@@ -4,7 +4,7 @@
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: chwang@mori.m.is.nagoya-u.ac.jp # your email address
 scholar_userid: XGS1MRYAAAAJ # your Google Scholar ID
-linkedin_username: 王成
+linkedin_username: 成-王-122a03215
 wechat_qr: wechat-qr.JPG # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 
