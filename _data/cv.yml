@@ -4,7 +4,8 @@ cv:
   email: chwang at mori.m.is.nagoya-u.ac.jp (change at to @ when send email to me)
   location: Nagoya, Japan
   image: ""
-  summary: I am a Postdoctoral Researcher at Nagoya University.
+  summary: > 
+  I am a Postdoctoral Researcher at Nagoya University.
   My research focuses on medical and biomedical image analysis, computer vision,
   deep learning, and vision-language models.
   My research interests include computer-assisted intervention,
@@ -26,7 +27,7 @@ cv:
     postalCode: 464-8601
     countryCode: Japan
 
- sections:
+  sections:
   Education:
     - institution: Nagoya University
       location: Nagoya, Japan
@@ -55,12 +56,12 @@ cv:
       location: Changchun, China
       area: Computer Applications and Technology
       studyType: Master's degree
-      start_date:2011-09
+      start_date: 2011-09
       end_date: 2014-04
 
     - institution: Qiqihar University
       location: Qiqihar, China
       area: Mathematics and Applied Mathematics (Teacher Education)
       studyType: Bachelor's degree
-      start_date:2007-09
+      start_date: 2007-09
       end_date: 2011-07
