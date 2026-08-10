@@ -7,20 +7,20 @@ cv:
 
   summary: >
     I am a Postdoctoral Researcher at Nagoya University.
-    My research focuses on medical and biomedical image analysis, computer vision,
-    deep learning, and vision-language models.
+    My research focuses on medical and biomedical image analysis,
+    computer vision, deep learning, and vision-language models.
     My research interests include computer-assisted intervention,
-    bronchoscopic navigation, microscopic image analysis, and
-    AI-assisted medical report generation.
+    bronchoscopic navigation, microscopic image analysis,
+    plant phenotyping, and AI-assisted medical report generation.
 
   social_networks:
-    - network: LinkedIn
-      username: 王成
+    - network: GitHub
+      username: ASU-Chwang
 
   address:
     street: South Wing 466, Furo-cho, Chikusa-ward
-    city: Nagoya-City
-    region: Aichi prefecture
+    city: Nagoya
+    region: Aichi
     postalCode: 464-8601
     countryCode: Japan
 
@@ -52,44 +52,110 @@ cv:
       - institution: Changchun University of Science and Technology
         location: Changchun, China
         area: Computer Applications and Technology
-        studyType: Master's degree
+        studyType: Master's Degree
         start_date: 2011-09
         end_date: 2014-04
 
       - institution: Qiqihar University
         location: Qiqihar, China
         area: Mathematics and Applied Mathematics (Teacher Education)
-        studyType: Bachelor's degree
+        studyType: Bachelor's Degree
         start_date: 2007-09
         end_date: 2011-07
-  Awards:
-    - title: Third Prize, University Student NAO Online Programming Contest
-      date: 2013-04
-      awarder: Changchun University of Science and Technology
 
-    - title: Excellence Award, Graduate Student Mechanical Intelligence Challenge
-      date: 2013-04
-      awarder: Changchun University of Science and Technology
+    Experience:
+      - company: Nagoya University
+        position: Postdoctoral Researcher
+        location: Nagoya, Japan
+        start_date: 2021-10
+        end_date: present
+        summary: >
+          Conducting research in medical and biomedical image analysis,
+          computer vision, deep learning, and multimodal artificial intelligence.
+        highlights:
+          - Computer-assisted intervention and bronchoscopic navigation
+          - Microscopic and biomedical image analysis
+          - Vision-language models and automated medical report generation
+          - Deep learning for medical and biological imaging
 
-    - title: Outstanding Master's Thesis of Jilin Province
-      date: 2014-04
-      awarder: Jilin Province
+    Research Experience:
+      - company: Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences
+        location: Changchun, China
+        position: Collaborative Research
+        start_date: 2011-10
+        end_date: present
+        highlights:
+          - Resolution enhancement of remote sensing images
 
-    - title: Japanese Government (MEXT) Scholarship
-      date: 2015-07
-      awarder: Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan
+      - company: Olympus Corporation
+        location: Japan
+        position: Collaborative Research
+        start_date: 2017-07
+        end_date: present
+        highlights:
+          - Development of a novel video-based bronchoscope navigation system
 
-    - title: Best Poster Award Nomination
-      date: 2023
-      awarder: The 15th International Association for Plant Biotechnology Congress
-      summary: >
-        The work "Deep Learning-based Automatic Plant Root Detection for the
-        Measurement of Plant Root Using Images from Scanner" was nominated
-        for the Best Poster Award.
+      - company: Tokyo University of Science
+        location: Japan
+        position: Collaborative Research
+        start_date: 2021-10
+        end_date: present
+        highlights:
+          - Analysis and three-dimensional reconstruction of biological structures from confocal laser scanning microscopy images
 
-    - title: Poster Award
-      date: 2025-03
-      awarder: International Forum on Medical Imaging in Asia (IFMIA 2025)
-      summary: >
-        Award-winning work (co-author) on RLHF-based Q&A pair generation from abdominal
-        CT finding reports.
+      - company: Nagoya University and Tohoku University
+        location: Japan
+        position: Collaborative Research
+        start_date: 2021-10
+        end_date: present
+        highlights:
+          - Microscopic analysis of plant structures including leaves, roots, and stomata
+
+    Awards:
+      - title: Third Prize, University Student NAO Online Programming Contest
+        date: 2013-04
+        awarder: University Student NAO Online Programming Contest
+
+      - title: Excellence Award, Graduate Student Mechanical Intelligence Challenge
+        date: 2013-04
+        awarder: Changchun University of Science and Technology
+
+      - title: Outstanding Master's Thesis of Jilin Province
+        date: 2014-04
+        awarder: Jilin Province, China
+
+      - title: Japanese Government (MEXT) Scholarship
+        date: 2015-07
+        awarder: Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan
+
+      - title: Best Paper Award
+        date: 2023-08
+        awarder: The 15th International Association for Plant Biotechnology Congress
+        summary: >
+          Award associated with the research on deep learning-based
+          automatic plant root detection and measurement.
+
+      - title: Poster Award
+        date: 2025-02
+        awarder: International Forum on Medical Imaging in Asia (IFMIA 2025)
+        summary: >
+          Co-author of the award-winning work on RLHF-based Q&A pair
+          generation from abdominal CT finding reports.
+
+    Skills:
+      - name: Research Areas
+        level: Advanced
+        icon: fa-solid fa-flask
+        keywords: >
+          Medical Image Analysis, Biomedical Image Analysis,
+          Computer Vision, Deep Learning, Vision-Language Models,
+          Computer-Assisted Intervention, Bronchoscopic Navigation,
+          Microscopic Image Analysis, Plant Phenotyping
+
+    Interests:
+      - name: Medical and Biomedical Artificial Intelligence
+        icon: fa-solid fa-tag
+        keywords: >
+          Medical Image Analysis, Computer-Assisted Intervention,
+          Multimodal AI, Vision-Language Models, Microscopic Image Analysis,
+          Automated Medical Report Generation
