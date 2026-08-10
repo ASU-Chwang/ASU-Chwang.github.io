@@ -14,12 +14,8 @@ cv:
     AI-assisted medical report generation.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: 王成
 
   address:
     street: South Wing 466, Furo-cho, Chikusa-ward
@@ -47,7 +43,7 @@ cv:
         end_date: 2016-03
 
       - institution: Preparatory School for Chinese Students to Japan
-        location: Japan
+        location: Changchun, China
         area: Japanese Language
         studyType: Japanese Language Course
         start_date: 2014-09
@@ -66,3 +62,34 @@ cv:
         studyType: Bachelor's degree
         start_date: 2007-09
         end_date: 2011-07
+  Awards:
+    - title: Third Prize, University Student NAO Online Programming Contest
+      date: 2013-04
+      awarder: Changchun University of Science and Technology
+
+    - title: Excellence Award, Graduate Student Mechanical Intelligence Challenge
+      date: 2013-04
+      awarder: Changchun University of Science and Technology
+
+    - title: Outstanding Master's Thesis of Jilin Province
+      date: 2014-04
+      awarder: Jilin Province
+
+    - title: Japanese Government (MEXT) Scholarship
+      date: 2015-07
+      awarder: Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan
+
+    - title: Best Poster Award Nomination
+      date: 2023
+      awarder: The 15th International Association for Plant Biotechnology Congress
+      summary: >
+        The work "Deep Learning-based Automatic Plant Root Detection for the
+        Measurement of Plant Root Using Images from Scanner" was nominated
+        for the Best Poster Award.
+
+    - title: Poster Award
+      date: 2025-03
+      awarder: International Forum on Medical Imaging in Asia (IFMIA 2025)
+      summary: >
+        Award-winning work (co-author) on RLHF-based Q&A pair generation from abdominal
+        CT finding reports.
