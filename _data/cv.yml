@@ -4,7 +4,12 @@ cv:
   email: chwang at mori.m.is.nagoya-u.ac.jp (change at to @ when send email to me)
   location: Nagoya, Japan
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: I am a Postdoctoral Researcher at Nagoya University.
+  My research focuses on medical and biomedical image analysis, computer vision,
+  deep learning, and vision-language models.
+  My research interests include computer-assisted intervention,
+  bronchoscopic navigation, microscopic image analysis, and
+  AI-assisted medical report generation.
 
   social_networks:
     - network: X
@@ -28,34 +33,34 @@ cv:
       url: https://www.nagoya-u.ac.jp/
       area: Information Science
       studyType: Ph.D.
-      start_date:
+      start_date: 2016-10
       end_date: 2021-09
 
     - institution: Nagoya University
       location: Nagoya, Japan
       url: https://www.nagoya-u.ac.jp/
-      area:
+      area: Information Science
       studyType: Research Student
-      start_date:
-      end_date:
+      start_date: 2015-10
+      end_date: 2016-03
 
     - institution: Preparatory School for Chinese Students to Japan
       location: Japan
       area: Japanese Language
       studyType: Japanese Language Course
-      start_date:
-      end_date:
+      start_date: 2014-09
+      end_date: 2015-09
 
     - institution: Changchun University of Science and Technology
       location: Changchun, China
       area: Computer Applications and Technology
       studyType: Master's degree
-      start_date:
+      start_date:2011-09
       end_date: 2014-04
 
     - institution: Qiqihar University
       location: Qiqihar, China
       area: Mathematics and Applied Mathematics (Teacher Education)
       studyType: Bachelor's degree
-      start_date:
+      start_date:2007-09
       end_date: 2011-07
