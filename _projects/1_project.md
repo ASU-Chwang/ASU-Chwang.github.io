@@ -1,49 +1,50 @@
 ---
 layout: page
-title: Medical LLM and Automated Report Generation
-description: Large language models and vision-language models for automated biomedical and medical report generation.
+title: Bronchoscopic Navigation and Visual Tracking
+description: Image-guided bronchoscopy using visual SLAM, anatomical analysis, and CT-based navigation
 img:
 importance: 1
-category: Postdoctoral Research
+category: Research
 ---
 
 ## Overview
 
-My recent research focuses on the use of **large language models (LLMs)** and **vision-language models (VLMs)** for biomedical and medical report generation.
+This project focuses on image-guided bronchoscopic navigation using computer vision, visual SLAM, deep learning, and pre-operative CT information.
 
-In biomedical experiments, researchers often need to analyze image sequences, identify structural changes, and manually summarize the observations into reports. This process is time-consuming and may introduce inconsistencies between image analysis and textual descriptions.
-
-To address this problem, I have been developing AI-based frameworks that integrate image analysis, quantitative measurements, and language models to automatically generate structured reports.
-
-## Comparative Thrombosis Report Generation
-
-For thrombosis formation studies using confocal laser scanning microscopy images, I developed a framework for generating comparative reports from multiple observations.
-
-The system first extracts blood vessel and thrombus regions using image segmentation models. Quantitative features such as thrombus size, location, and temporal change are then calculated.
-
-These image-derived features are combined with textual prompts and provided to a fine-tuned large language model to generate structured descriptions of changes between different observations.
-
-This approach enables the model to describe not only individual images but also longitudinal changes in biological structures.
-
-## Medical Vision-Language Models
-
-I have also participated in research on vision-language models for medical imaging, including:
-
-- automated radiology report generation from 3D CT volumes
-- longitudinal CT image understanding
-- medical visual question answering
-- medical question-and-answer pair generation
-- reinforcement learning from human feedback (RLHF)
-- multimodal learning for medical image interpretation
-
-The goal of this research is to develop AI systems that can understand both medical images and clinical language and generate clinically meaningful outputs.
+The goal is to improve bronchoscope localization, tracking robustness, anatomical understanding, and navigation accuracy during bronchoscopic procedures.
 
 ## Research Topics
 
-- Large language models for biomedical applications
-- Vision-language models
-- Automated report generation
-- Longitudinal medical image analysis
-- Medical visual question answering
-- Multimodal medical artificial intelligence
-- RLHF-based medical instruction-data generation
+- Visual SLAM-based bronchoscope tracking
+- ORB-SLAM-based localization and reconstruction
+- Robust feature matching and outlier elimination
+- Bronchial orifice segmentation and tracking
+- Bronchial branching-level estimation
+- Bronchial anatomical structure analysis
+- Bronchoscope-to-CT registration
+- Bronchial nomenclature estimation
+- Navigation path generation
+- Depth estimation from bronchoscopic images
+
+## Research Period
+
+2016–Present
+
+## Collaborations
+
+- Nagoya University
+- Olympus Corporation
+- Clinical collaborators in bronchoscopy and respiratory medicine
+
+## Representative Publications
+
+- Visual SLAM for Bronchoscope Tracking and Bronchus Reconstruction in Bronchoscopic Navigation, SPIE Medical Imaging, 2019.
+- Improved Visual SLAM for Bronchoscope Tracking and Registration with Pre-operative CT Images, SPIE Medical Imaging, 2020.
+- Bronchial Orifice Segmentation on Bronchoscopic Video Frames Based on Generative Adversarial Depth Estimation, SPIE Medical Imaging, 2021.
+- Bronchial Orifice Tracking-based Branch Level Estimation for Bronchoscopic Navigation, SPIE Medical Imaging, 2022.
+- Anatomy Aware-based 2.5D Bronchoscope Tracking for Image-guided Bronchoscopic Navigation, Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, 2023.
+- Real Bronchoscopic Images-based Bronchial Nomenclature: A Preliminary Study, SPIE Medical Imaging, 2023.
+
+## Keywords
+
+Bronchoscopic Navigation, Visual SLAM, Computer-Assisted Intervention, Bronchoscope Tracking, Medical Image Analysis, Computer Vision, Deep Learning, CT Registration
