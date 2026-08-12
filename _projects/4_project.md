@@ -1,80 +1,50 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Vision-Language Models for Automated Medical Report Generation
+description: Multimodal AI for medical report generation, medical VQA, and clinical text generation from 3D medical images
 img:
-importance: 3
-category: fun
+importance: 4
+category: Research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project investigates vision-language models and large multimodal models for automated interpretation of medical images and generation of clinically meaningful reports.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The research focuses on combining three-dimensional medical images with language models for report generation, medical visual question answering, question-answer pair generation, and multimodal reasoning.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Research Topics
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+- Vision-language models
+- Large multimodal models
+- Automated radiology report generation
+- Longitudinal CT analysis
+- Medical visual question answering
+- Question-answer pair generation
+- Reinforcement learning from human feedback
+- Multimodal medical reasoning
+- Japanese medical report generation
+- Clinical language generation
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Research Period
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+2024–Present
 
-{% raw %}
+## Collaborations
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+- Nagoya University
+- Medical imaging and clinical collaborators
 
-{% endraw %}
+## Representative Publications
+
+- RLHF-based Q&A Pairs Generation from Finding Texts of Abdominal CT Images for Fine-Tuning of Medical Large Multimodal Models, IFMIA, 2025.
+- Automated Findings Report Generation Using VLM from Longitudinal 3D CT Volumes, CARS, 2025.
+- Automated Generation of Japanese Medical Reports from 3D Abdominal CT Volumes, CARS, 2025.
+- SIGMA: Auto-Regressive VLM for Automated Radiology Report Generation from Longitudinal 3D CT Volumes, MICCAI Workshop, 2025.
+- Joint Training to Improve Report Generation Capability from Longitudinal CT Volumes with a Vision-Language Model, SPIE Medical Imaging, 2026.
+- An Investigation of Segmentation-Pretrained and Image-Text Pretrained Models for Medical VQA, SPIE Medical Imaging, 2026.
+- Generation of Comparative Thrombosis Reports from Confocal Laser-Scanning Microscope Images Using Large Language Models, SPIE Medical Imaging, 2026.
+
+## Keywords
+
+Vision-Language Model, Large Multimodal Model, Medical Report Generation, Medical VQA, Longitudinal CT, Multimodal AI, RLHF, Deep Learning
