@@ -32,7 +32,7 @@ The tours were a collaborative effort involving students and staff members acros
 ---
 
 ## A Team Effort
-
+Our **Doctor course students** (Mr. Rintaro Miyazaki et al.) helped prepare promotional brochures, registration form(survey) and other materials introducing the laboratory and our research activities.
 Our **M2 students** (Mr. Yuta Kawamura et al.) helped prepare promotional brochures and other materials introducing the laboratory and our research activities.
 
 Our **B4 and M1 students** (Mr. Takato Kamikawa et al.) welcomed visitors and guided them through the laboratory. Several students with strong English communication skills also gave introductions to the laboratory and explained our research activities to international guests.
