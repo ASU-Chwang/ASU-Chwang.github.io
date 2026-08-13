@@ -21,7 +21,7 @@ The tours were a collaborative effort involving students and staff members acros
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/lab-tour-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/lab-tour-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
@@ -41,7 +41,7 @@ I participated as a flexible support member, helping wherever needed — from pr
 
 <div class="row mt-3">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/lab-tour-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/lab-tour-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
@@ -66,7 +66,7 @@ Rather than simply showing the equipment, we also explained how these systems ar
 
 <div class="row mt-3">
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/lab-tour-22.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/lab-tour-22.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
@@ -92,7 +92,7 @@ This hands-on activity became one of the most engaging parts of the laboratory t
 
 <div class="row mt-3">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/robot-arm-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/robot-arm-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 <div class="caption">
@@ -117,7 +117,7 @@ We exchanged ideas on topics including:
 These conversations were one of the most rewarding parts of the event for me.
 <div class="row mt-3">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/lab-mori.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/lab-mori.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
@@ -128,7 +128,7 @@ These conversations were one of the most rewarding parts of the event for me.
 ---
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/lab-tour-4.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/lab-tour-4.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
