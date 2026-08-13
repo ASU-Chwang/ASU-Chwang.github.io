@@ -41,8 +41,8 @@ Our **B4 and M1 students** (Mr. Takato Kamikawa et al.) welcomed visitors and gu
 I participated as a flexible support member, helping wherever needed — from preparing demonstrations and introducing equipment to assisting students during the tours.
 
 <div class="row mt-3">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/lab-tour-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/lab-tour-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
@@ -66,8 +66,8 @@ Visitors were able to see and learn about several resources available in the lab
 Rather than simply showing the equipment, we also explained how these systems are connected to our actual research projects.
 
 <div class="row mt-3">
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/lab-tour-22.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/lab-mori.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
@@ -92,10 +92,11 @@ Several visitors participated in the demonstration and experienced how robotic c
 This hands-on activity became one of the most engaging parts of the laboratory tour.
 
 <div class="row mt-3">
-  <div class="col-sm-6 mt-3 mt-md-0">
+  <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/robot-arm-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
+
 <div class="caption">
   Vistors showed great interest in our robot arms.
 </div>
@@ -117,13 +118,13 @@ We exchanged ideas on topics including:
 
 These conversations were one of the most rewarding parts of the event for me.
 <div class="row mt-3">
-  <div class="col-sm-6 mt-3 mt-md-0">
+  <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/lab-mori.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
 <div class="caption">
-  Prof. Mori meeting and talking with visitors during the laboratory tour.
+ Prof. Mori meeting and talking with visitors during the laboratory tour.
 </div>
 
 ---
@@ -134,9 +135,8 @@ These conversations were one of the most rewarding parts of the event for me.
 </div>
 
 <div class="caption">
-  Discussions and exchanges with visitors from Japan and abroad.
+ So many guests came to Mori-Oda lab.
 </div>
-
 ---
 
 ## A Positive Experience for Our Laboratory
