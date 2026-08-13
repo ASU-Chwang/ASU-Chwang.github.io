@@ -33,9 +33,9 @@ The tours were a collaborative effort involving students and staff members acros
 
 ## A Team Effort
 
-Our **M2 students** helped prepare promotional brochures and other materials introducing the laboratory and our research activities.
+Our **M2 students** (Yuta Kawamura et. al) helped prepare promotional brochures and other materials introducing the laboratory and our research activities.
 
-Our **B4 students** welcomed visitors and guided them through the laboratory. Several B4 students with strong English communication skills also gave introductions to the laboratory and explained our research activities to international guests.
+Our **B4 and M1 students** (Takato Kamikawa et. al) welcomed visitors and guided them through the laboratory. Several students with strong English communication skills also gave introductions to the laboratory and explained our research activities to international guests.
 
 I participated as a flexible support member, helping wherever needed — from preparing demonstrations and introducing equipment to assisting students during the tours.
 
@@ -85,7 +85,7 @@ Rather than simply showing the equipment, we also explained how these systems ar
 
 ---
 
-## “Become a Doctor!” — Hands-on Robotic Surgery Experience
+## “Become a Doctor!” — Robotic Surgery Experience
 
 A particularly interactive part of the tour was the introduction of a recent engineering project that **Prof. Kensaku Mori and I have been working on: a robotic arm system for laparoscopic surgery**.
 
