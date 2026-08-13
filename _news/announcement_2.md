@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mori-Oda Laboratory Tours during CARS 2026 and JAMIT 2026"
-date: 2026-08-13
+date: 2026-07-03
 description: "Student-led laboratory tours, research facility demonstrations, and a hands-on laparoscopic robotic arm experience during CARS 2026 and JAMIT 2026."
 tags:
   - CARS 2026
