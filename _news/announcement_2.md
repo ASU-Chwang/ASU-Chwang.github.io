@@ -33,9 +33,9 @@ The tours were a collaborative effort involving students and staff members acros
 
 ## A Team Effort
 
-Our **M2 students** (Yuta Kawamura et. al) helped prepare promotional brochures and other materials introducing the laboratory and our research activities.
+Our **M2 students** (Mr. Yuta Kawamura et al.) helped prepare promotional brochures and other materials introducing the laboratory and our research activities.
 
-Our **B4 and M1 students** (Takato Kamikawa et. al) welcomed visitors and guided them through the laboratory. Several students with strong English communication skills also gave introductions to the laboratory and explained our research activities to international guests.
+Our **B4 and M1 students** (Mr. Takato Kamikawa et al.) welcomed visitors and guided them through the laboratory. Several students with strong English communication skills also gave introductions to the laboratory and explained our research activities to international guests.
 
 I participated as a flexible support member, helping wherever needed — from preparing demonstrations and introducing equipment to assisting students during the tours.
 
@@ -46,7 +46,7 @@ I participated as a flexible support member, helping wherever needed — from pr
 </div>
 
 <div class="caption">
-  I am introducing the server room of Mori-Oda lab to the vistors.
+  I am introducing the server room of Mori-Oda lab to the visitors.
 </div>
 
 ---
@@ -66,7 +66,7 @@ Rather than simply showing the equipment, we also explained how these systems ar
 
 <div class="row mt-3">
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/lab-tpir-22.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/news/lab-tour-22.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
@@ -94,6 +94,7 @@ This hands-on activity became one of the most engaging parts of the laboratory t
   <div class="col-sm-6 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/news/robot-arm-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
+</div>
 <div class="caption">
   Vistors showed great interest in our robot arms.
 </div>
@@ -118,8 +119,10 @@ These conversations were one of the most rewarding parts of the event for me.
   <div class="col-sm-6 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/news/lab-mori.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
+</div>
+
 <div class="caption">
-  Vistors showed great interest in our robot arms.
+  Prof. Mori meeting and talking with visitors during the laboratory tour.
 </div>
 
 ---
