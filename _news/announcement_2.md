@@ -2,7 +2,7 @@
 layout: post
 title: "Mori-Oda Laboratory Tours during CARS 2026 and JAMIT 2026"
 date: 2026-07-03
-description: "Student-led laboratory tours, research facility demonstrations, and a hands-on laparoscopic robotic arm experience during CARS 2026 and JAMIT 2026."
+description: "Student-led laboratory tours, research facility demonstrations, and a laparoscopic robotic arm experience during CARS 2026 and JAMIT 2026."
 tags:
   - CARS 2026
   - JAMIT 2026
@@ -41,15 +41,12 @@ I participated as a flexible support member, helping wherever needed — from pr
 
 <div class="row mt-3">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/lab-tour-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/lab-tour-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/news/lab-tour-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
 <div class="caption">
-  Students preparing materials and guiding visitors during the laboratory tours.
+  I am introducing the server room of Mori-Oda lab to the vistors.
 </div>
 
 ---
@@ -69,18 +66,12 @@ Rather than simply showing the equipment, we also explained how these systems ar
 
 <div class="row mt-3">
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/lab-equipment-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/lab-equipment-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/lab-equipment-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/news/lab-tpir-22.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
 <div class="caption">
-  Research facilities including 3D printing, GPU computing, and micro-CT imaging.
+  Prof. Mori is meeting some of his friends. 
 </div>
 
 ---
@@ -103,13 +94,8 @@ This hands-on activity became one of the most engaging parts of the laboratory t
   <div class="col-sm-6 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/news/robot-arm-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/robot-arm-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-</div>
-
 <div class="caption">
-  Hands-on experience with our laparoscopic robotic arm system.
+  Vistors showed great interest in our robot arms.
 </div>
 
 ---
@@ -126,13 +112,20 @@ We exchanged ideas on topics including:
 * computer-assisted intervention
 * surgical robotics
 * artificial intelligence
-* biomedical imaging
 
 These conversations were one of the most rewarding parts of the event for me.
+<div class="row mt-3">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/news/lab-mori.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+<div class="caption">
+  Vistors showed great interest in our robot arms.
+</div>
 
+---
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/news/lab-tour-4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/news/lab-tour-4.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
