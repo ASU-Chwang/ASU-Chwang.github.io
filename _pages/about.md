@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Cheng Wang (Ph.D Nagoya University 2021) is a postdoctoral researcher at Nagoya University, Japan. His research areas are image-guided surgical navigation and deep learning-based applications, including medical and biomedical fields. He received Chinese Government Scholarship in 2015. 
+Cheng Wang received his Ph.D. in Information Science from Nagoya University in 2021 and is currently a Postdoctoral Researcher at Nagoya University, Japan. His research focuses on medical and biomedical image analysis, computer vision, deep learning, and artificial intelligence for healthcare and biological applications.
+
+His current research includes computer-assisted intervention and bronchoscopic navigation, confocal microscopy image analysis, three-dimensional reconstruction of biological structures, plant phenotyping, and AI-based analysis of medical and biomedical images. He is also working on vision-language models and large multimodal models for automated medical report generation and medical visual question answering.
+
+He has participated in collaborative research with universities, research institutes, and industry partners in Japan and abroad. His research interests span medical imaging, bioimaging, surgical navigation, multimodal AI, and intelligent image analysis, with an emphasis on developing practical computational methods that can support medical, biomedical, and life-science research.
