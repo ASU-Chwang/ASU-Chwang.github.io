@@ -1,12 +1,11 @@
 ---
-
 layout: page
 title: teaching
 permalink: /teaching/
-description: Teaching, research supervision, mentoring, and science outreach activities.
+description: "Teaching, research supervision, mentoring, and science outreach activities."
 nav: true
 nav_order: 5
-------------
+---
 
 # Teaching & Mentoring
 
