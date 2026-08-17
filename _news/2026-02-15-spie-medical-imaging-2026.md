@@ -1,12 +1,11 @@
 ---
-
 layout: post
 title: "SPIE Medical Imaging 2026 in Vancouver"
 date: 2026-02-15
 description: "Research presentations, academic exchange, and a Cum Laude Poster Award at SPIE Medical Imaging 2026 in Vancouver, Canada."
 inline: false
 related_posts: false
---------------------
+---
 
 # SPIE Medical Imaging 2026 in Vancouver
 
