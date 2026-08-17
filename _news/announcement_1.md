@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Participation in CARS 2026 and JAMIT 2026"
+title: "CARS 2026 and JAMIT 2026 @ Nagoya"
 date: 2026-07-02
 description: "Participation in CARS 2026 and JAMIT 2026, including scientific presentations, academic exchange, and discussions on recent advances in medical imaging."
 related_posts: false
@@ -15,7 +15,7 @@ categories:
 
 ## CARS 2026 and JAMIT 2026
 
-In July 2026, I participated in **CARS 2026 (Computer Assisted Radiology and Surgery)** and **JAMIT 2026 (Annual Meeting of the Japanese Society of Medical Imaging Technology)**.
+In July 2026, **CARS 2026 (Computer Assisted Radiology and Surgery)** and **JAMIT 2026 (Annual Meeting of the Japanese Society of Medical Imaging Technology)** were held in Nagoya University.
 
 These conferences provided valuable opportunities to learn about recent developments in medical imaging, computer-assisted diagnosis and intervention, surgical navigation, artificial intelligence, and related research areas.
 
@@ -33,7 +33,7 @@ These conferences provided valuable opportunities to learn about recent developm
 
 ## Scientific Presentations and Discussions
 
-During the conferences, I attended oral and poster presentations covering a wide range of topics in **medical image analysis, artificial intelligence, image-guided intervention, surgical navigation, and biomedical image processing**.
+During the conferences, there are many oral and poster presentations covering a wide range of topics in **medical image analysis, artificial intelligence, image-guided intervention, surgical navigation, and biomedical image processing**.
 
 It was valuable to learn about recent research progress from different groups and to discuss new methods, technical challenges, and potential directions for future research.
 
@@ -57,7 +57,7 @@ The conferences also provided an opportunity to exchange ideas with researchers 
 
 ## JAMIT 2026
 
-I also participated in **JAMIT 2026**, where researchers from Japan and abroad presented recent studies in medical imaging technology and its clinical and biomedical applications.
+I also served as a staff in **JAMIT 2026**, where researchers from Japan and abroad presented recent studies in medical imaging technology and its clinical and biomedical applications.
 
 It was a good opportunity to follow the latest research activities in the Japanese medical imaging community and to exchange ideas with researchers working in related areas.
 
@@ -81,11 +81,11 @@ These face-to-face discussions are an important part of academic meetings. They 
 
 <div class="row mt-3">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/cars-jamit-2026-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/cars-jamit-2026-3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/cars-jamit-2026-4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/cars-jamit-2026-4.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
