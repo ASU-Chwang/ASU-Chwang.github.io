@@ -32,7 +32,7 @@ This work is part of our continuing research on the analysis of blood vessels an
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/spie-mi-2026-presentation.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/SPIE-2026-pub.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
@@ -54,7 +54,7 @@ Presenting a colleague's work was also a valuable experience for me. It required
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/spie-mi-2026-yao-poster.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/spie-mi-2026-yao-poster.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
@@ -82,7 +82,7 @@ These presentations provided useful perspectives on current research trends and 
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/spie-mi-2026-session-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/spie-mi-2026-session-1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
@@ -92,7 +92,7 @@ These presentations provided useful perspectives on current research trends and 
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/spie-mi-2026-session-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/spie-mi-2026-session-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
