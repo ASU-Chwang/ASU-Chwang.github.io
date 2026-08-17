@@ -1,12 +1,11 @@
 ---
-
 layout: post
 title: "地域共創キックオフ交流会 at Aichi Sangyo University"
 date: 2026-05-15
 description: "Participation in the Regional Co-Creation Kickoff Exchange Meeting hosted by Aichi Sangyo University."
 inline: false
 related_posts: false
---------------------
+---
 
 ## Regional Co-Creation Kickoff Exchange Meeting
 
@@ -28,8 +27,8 @@ Participating in this exchange meeting allowed me to better understand the impor
 
 I sincerely appreciate **Aichi Sangyo University** for organizing this valuable opportunity for research exchange and communication.
 
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center mt-3">
+  <div class="col-md-8 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/ASU-kickoff.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
