@@ -2,7 +2,7 @@
 layout: page
 title: Bronchoscopic Navigation and Visual Tracking
 description: Image-guided bronchoscopy using visual SLAM, anatomical analysis, and CT-based navigation
-img:
+img: assets/img/moonshot3-bronchoscopy.png
 importance: 1
 category: Research
 ---
