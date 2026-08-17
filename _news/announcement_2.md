@@ -119,12 +119,12 @@ We exchanged ideas on topics including:
 These conversations were one of the most rewarding parts of the event for me.
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/lab-mori.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/lab-tour-22.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
 <div class="caption">
- Prof. Mori meeting and talking with visitors during the laboratory tour.
+  We are showing our demo (SIGMA, Organs from 3D printers) to vistors.
 </div>
 
 ---
