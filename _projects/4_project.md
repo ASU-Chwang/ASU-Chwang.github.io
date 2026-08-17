@@ -1,4 +1,5 @@
 ---
+published: false
 layout: page
 title: Vision-Language Models for Automated Medical Report Generation
 description: Multimodal AI for medical report generation, medical VQA, and clinical text generation from 3D medical images
