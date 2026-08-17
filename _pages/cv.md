@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/Cheng_Wang_CV20260814.pdf # you can also use external links here
+cv_pdf: /assets/pdf/Cheng_Wang_CV20260816.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
 description: This is an academic CV of Wang Cheng.
 toc:
