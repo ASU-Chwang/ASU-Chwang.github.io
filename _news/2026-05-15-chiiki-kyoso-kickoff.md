@@ -30,7 +30,7 @@ I sincerely appreciate **Aichi Sangyo University** for organizing this valuable 
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/chiiki-kyoso-2026.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/ASU-kickoff.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
