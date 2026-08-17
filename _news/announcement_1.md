@@ -1,10 +1,102 @@
 ---
 layout: post
-date: 2026-07-2 15:59:00-0400
-inline: true
+title: "Participation in CARS 2026 and JAMIT 2026"
+date: 2026-07-02
+description: "Participation in CARS 2026 and JAMIT 2026, including scientific presentations, academic exchange, and discussions on recent advances in medical imaging."
 related_posts: false
+tags:
+  - CARS 2026
+  - JAMIT 2026
+  - Medical Imaging
+  - Academic Conference
+categories:
+  - news
 ---
-We are hosting CARS 2026 and JAMIT 2026 at the Toyota Auditorium of Nagoya University (organized by Professor Kensaku Mori, Professor Oda, and others). I am a staff member, and I am happy to assist you.
-We look forward to your participation.
-https://cars-int.org/ From July 2 to July 5, 2026.
-JAMIT is From July 5 to July 7, 2026
+
+## CARS 2026 and JAMIT 2026
+
+In July 2026, I participated in **CARS 2026 (Computer Assisted Radiology and Surgery)** and **JAMIT 2026 (Annual Meeting of the Japanese Society of Medical Imaging Technology)**.
+
+These conferences provided valuable opportunities to learn about recent developments in medical imaging, computer-assisted diagnosis and intervention, surgical navigation, artificial intelligence, and related research areas.
+
+<div class="row justify-content-center mt-3">
+  <div class="col-md-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/cars-2026-board.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+
+<div class="caption">
+  At CARS 2026.
+</div>
+
+---
+
+## Scientific Presentations and Discussions
+
+During the conferences, I attended oral and poster presentations covering a wide range of topics in **medical image analysis, artificial intelligence, image-guided intervention, surgical navigation, and biomedical image processing**.
+
+It was valuable to learn about recent research progress from different groups and to discuss new methods, technical challenges, and potential directions for future research.
+
+The conferences also provided an opportunity to exchange ideas with researchers working on topics related to our own projects and to gain new perspectives that may be useful for our ongoing studies.
+
+<div class="row mt-3">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/cars-jamit-2026-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/cars-jamit-2026-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+
+<div class="caption">
+  Scientific presentations and research discussions during CARS 2026 and JAMIT 2026.
+</div>
+
+---
+
+## JAMIT 2026
+
+I also participated in **JAMIT 2026**, where researchers from Japan and abroad presented recent studies in medical imaging technology and its clinical and biomedical applications.
+
+It was a good opportunity to follow the latest research activities in the Japanese medical imaging community and to exchange ideas with researchers working in related areas.
+
+<div class="row justify-content-center mt-3">
+  <div class="col-md-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/jamit-2026-board.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+
+<div class="caption">
+  JAMIT 2026.
+</div>
+
+---
+
+## Academic Exchange
+
+In addition to attending scientific sessions, I had many opportunities to communicate with researchers, students, and colleagues during the conferences.
+
+These face-to-face discussions are an important part of academic meetings. They provide opportunities not only to exchange technical ideas, but also to learn about different research approaches and establish connections with researchers working in related fields.
+
+<div class="row mt-3">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/cars-jamit-2026-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/cars-jamit-2026-4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+
+<div class="caption">
+  Academic exchange and conference activities during CARS 2026 and JAMIT 2026.
+</div>
+
+---
+
+## A Valuable Conference Experience
+
+Participating in **CARS 2026 and JAMIT 2026** was a valuable opportunity to learn about recent advances in medical imaging and related technologies, exchange ideas with other researchers, and reflect on possible directions for our future research.
+
+I look forward to incorporating the knowledge and perspectives gained from these conferences into our ongoing research activities.
