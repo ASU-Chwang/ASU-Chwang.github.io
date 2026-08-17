@@ -21,7 +21,7 @@ These conferences provided valuable opportunities to learn about recent developm
 
 <div class="row justify-content-center mt-3">
   <div class="col-md-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/cars-2026-board.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/cars-2026-board.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
@@ -94,7 +94,15 @@ These face-to-face discussions are an important part of academic meetings. They 
 </div>
 
 ---
+<div class="row justify-content-center mt-3">
+  <div class="col-md-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/cars-2026-morilab.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
 
+<div class="caption">
+  At CARS 2026.
+</div>
 ## A Valuable Conference Experience
 
 Participating in **CARS 2026 and JAMIT 2026** was a valuable opportunity to learn about recent advances in medical imaging and related technologies, exchange ideas with other researchers, and reflect on possible directions for our future research.
