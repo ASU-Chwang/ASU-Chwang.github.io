@@ -10,180 +10,60 @@
 
 "oda":
   - firstname: ["Masahiro"]
-    url: https://scholar.google.com/scholar?q=Masahiro+Oda
-
-"hayashi":
-  - firstname: ["Yuichiro"]
-    url: https://scholar.google.com/scholar?q=Yuichiro+Hayashi
+    url: https://scholar.google.com/citations?user=OYIZMScAAAAJ&hl=ja&oi=ao
 
 "kitasaka":
   - firstname: ["Takayuki"]
-    url: https://scholar.google.com/scholar?q=Takayuki+Kitasaka
+    url: https://researchmap.jp/read0192565
 
 "itoh":
   - firstname: ["Hayato"]
-    url: https://scholar.google.com/scholar?q=Hayato+Itoh
-
-"honma":
-  - firstname: ["Hirotoshi"]
-    url: https://scholar.google.com/scholar?q=Hirotoshi+Honma
-
-"takabatake":
-  - firstname: ["Hirotsugu", "Takebatake, Hirotsugu", "Takatabake, Hirotsugu"]
-    url: https://scholar.google.com/scholar?q=Hirotsugu+Takabatake
-
-"natori":
-  - firstname: ["Hiroshi"]
-    url: https://scholar.google.com/scholar?q=Hiroshi+Natori
-
-"misawa":
-  - firstname: ["Kazunari"]
-    url: https://scholar.google.com/scholar?q=Kazunari+Misawa
+    url: https://hayato-itoh.github.io/
 
 "takebe":
   - firstname: ["Takanori"]
-    url: https://scholar.google.com/scholar?q=Takanori+Takebe
+    url: https://scholar.google.com/citations?hl=ja&user=Qpx12MYAAAAJ
 
 "kawamura":
   - firstname: ["Shuntaro", "Syuntaro"]
     url: https://scholar.google.com/scholar?q=Shuntaro+Kawamura
   - firstname: ["Yuta"]
-    url: https://scholar.google.com/scholar?q=Yuta+Kawamura
+    url: https://reins.tmd.ac.jp/html/100018217_ja.html
 
 "wu":
   - firstname: ["Yunheng"]
-    url: https://scholar.google.com/scholar?q=Yunheng+Wu
+    url: https://scholar.google.com/citations?hl=ja&user=32K5u90AAAAJ
 
-"nguyen":
-  - firstname: ["Khang", "Khang C.", "Khang Cong"]
-    url: https://scholar.google.com/scholar?q=Khang+Nguyen
-
-"heng":
-  - firstname: ["Yue"]
-    url: https://scholar.google.com/scholar?q=Yue+Heng
-
-"qi":
-  - firstname: ["Chuanyu", "Chuan Y."]
-    url: https://scholar.google.com/scholar?q=Chuanyu+Qi
-
-"shi":
-  - firstname: ["Zongxuan", "Zong X."]
-    url: https://scholar.google.com/scholar?q=Zongxuan+Shi
-  - firstname: ["Weili"]
-    url: https://scholar.google.com/scholar?q=Weili+Shi
 
 "zhang":
   - firstname: ["Luyang"]
-    url: https://scholar.google.com/scholar?q=Luyang+Zhang
+    url: https://scholar.google.com/citations?hl=ja&user=f4L1P2wAAAAJ
 
-"kikuchi":
-  - firstname: ["Tomohiro"]
-    url: https://scholar.google.com/scholar?q=Tomohiro+Kikuchi
 
 "roth":
   - firstname: ["Holger", "Holger R."]
-    url: https://scholar.google.com/scholar?q=Holger+Roth
+    url: https://scholar.google.com/citations?user=pzNwAsEAAAAJ&hl=ja&oi=ao
 
 "yang":
   - firstname: ["Dong"]
-    url: https://scholar.google.com/scholar?q=Dong+Yang
-
-"zhong":
-  - firstname: ["Naikang"]
-    url: https://scholar.google.com/scholar?q=Naikang+Zhong
-
-"chai":
-  - firstname: ["Chengke"]
-    url: https://scholar.google.com/scholar?q=Chengke+Chai
-
-"han":
-  - firstname: ["Wenzhao"]
-    url: https://scholar.google.com/scholar?q=Wenzhao+Han
-  - firstname: ["Yonglin"]
-    url: https://scholar.google.com/scholar?q=Yonglin+Han
-
-"katayama":
-  - firstname: ["Kou"]
-    url: https://scholar.google.com/scholar?q=Kou+Katayama
+    url: https://scholar.google.com/citations?user=PHvliUgAAAAJ&hl=ja&oi=ao
 
 "ukai":
   - firstname: ["Yuko"]
-    url: https://scholar.google.com/scholar?q=Yuko+Ukai
+    url: https://researchmap.jp/8313609
 
 "sato":
   - firstname: ["Yoshikatsu"]
-    url: https://scholar.google.com/scholar?q=Yoshikatsu+Sato
+    url: https://scholar.google.com/citations?user=HiwRYroAAAAJ&hl=ja&oi=ao
   - firstname: ["Kanane"]
-    url: https://scholar.google.com/scholar?q=Kanane+Sato
-  - firstname: ["Junya"]
-    url: https://scholar.google.com/scholar?q=Junya+Sato
-
-"ishimaru":
-  - firstname: ["Yasuhiro"]
-    url: https://scholar.google.com/scholar?q=Yasuhiro+Ishimaru
+    url: https://researchmap.jp/71001723
 
 "uozumi":
   - firstname: ["Nobuyuki"]
-    url: https://scholar.google.com/scholar?q=Nobuyuki+Uozumi
+    url: https://scholar.google.com/citations?user=2gTvi8oAAAAJ&hl=ja&oi=ao
 
-"nagata":
-  - firstname: ["Shogo"]
-    url: https://scholar.google.com/scholar?q=Shogo+Nagata
 
-"shen":
-  - firstname: ["Chen"]
-    url: https://scholar.google.com/scholar?q=Chen+Shen
-
-"miura":
-  - firstname: ["Kanta"]
-    url: https://scholar.google.com/scholar?q=Kanta+Miura
-
-"otake":
-  - firstname: ["Yoshito"]
-    url: https://scholar.google.com/scholar?q=Yoshito+Otake
-
-"bise":
-  - firstname: ["Ryoma"]
-    url: https://scholar.google.com/scholar?q=Ryoma+Bise
-
-"furukawa":
-  - firstname: ["Ryo"]
-    url: https://scholar.google.com/scholar?q=Ryo+Furukawa
-
-"hontani":
-  - firstname: ["Hidekata"]
-    url: https://scholar.google.com/scholar?q=Hidekata+Hontani
-
-"masutani":
-  - firstname: ["Yoshitaka"]
-    url: https://scholar.google.com/scholar?q=Yoshitaka+Masutani
-
-"jiang":
-  - firstname: ["Zhengang"]
-    url: https://scholar.google.com/scholar?q=Zhengang+Jiang
-  - firstname: ["Shuai"]
-    url: https://scholar.google.com/scholar?q=Shuai+Jiang
 
 "zhao":
   - firstname: ["Jiashi"]
-    url: https://scholar.google.com/scholar?q=Jiashi+Zhao
-
-"huang":
-  - firstname: ["Haiyi"]
-    url: https://scholar.google.com/scholar?q=Haiyi+Huang
-
-"yu":
-  - firstname: ["Miao"]
-    url: https://scholar.google.com/scholar?q=Miao+Yu
-
-"liu":
-  - firstname: ["Jianhua"]
-    url: https://scholar.google.com/scholar?q=Jianhua+Liu
-
-"villard":
-  - firstname: ["Benjamin"]
-    url: https://scholar.google.com/scholar?q=Benjamin+Villard
-
-"eshghi":
-  - firstname: ["Mohammad"]
-    url: https://scholar.google.com/scholar?q=Mohammad+Eshghi
+    url: https://www.researchgate.net/profile/Jiashi-Zhao
