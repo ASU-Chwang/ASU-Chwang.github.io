@@ -32,3 +32,10 @@ Cheng Wang received his Ph.D. in Information Science from Nagoya University in 2
 His current research includes computer-assisted intervention and bronchoscopic navigation, confocal microscopy image analysis, three-dimensional reconstruction of biological structures, plant phenotyping, and AI-based analysis of medical and biomedical images. He is also working on vision-language models and large multimodal models for automated medical report generation and medical visual question answering.
 
 He has participated in collaborative research with universities, research institutes, and industry partners in Japan and abroad. His research interests span medical imaging, bioimaging, surgical navigation, multimodal AI, and intelligent image analysis, with an emphasis on developing practical computational methods that can support medical, biomedical, and life-science research.
+---
+
+### Photo Notice
+
+Some photographs on this website were taken during academic conferences, laboratory activities, educational events, and research-related activities, and may include students, colleagues, collaborators, or visitors. These photographs are used solely to document and communicate academic, educational, and research activities.
+
+If you appear in any photograph on this website and would prefer the image to be removed or replaced, please feel free to contact me.
