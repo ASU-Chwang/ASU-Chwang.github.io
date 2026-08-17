@@ -88,23 +88,16 @@ During the conference, I attended a number of oral and poster sessions and learn
 These presentations provided useful perspectives on current research trends and also gave me new ideas for our own ongoing projects.
 
 <div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/spie-mi-2026-session-1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/spie-mi-2026-session-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/spie-mi-2026-session-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
 <div class="caption">
-  Learning about recent advances in medical imaging through scientific presentations and discussions.
-</div>
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/spie-mi-2026-session-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-</div>
-
-<div class="caption">
-  Oral and poster sessions provided opportunities to explore research topics beyond my own projects.
+  Exploring recent research presented at SPIE Medical Imaging 2026.
 </div>
 
 ---
