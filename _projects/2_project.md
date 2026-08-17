@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Confocal Microscopy Image Analysis (MOONSHOT Goal 3)
+title: Confocal Laser Scanning Microscopy Image Analysis (MOONSHOT Goal 3)
 description: AI-based analysis, segmentation, reconstruction, and quantitative assessment of vascular structures and thrombi. A topic of MOONSHOT Goal 3
 img: /assets/img/moonshot3-CLSM.png
 importance: 2
