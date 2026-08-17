@@ -2,7 +2,7 @@
 layout: page
 title: Remote Sensing Satellite Image Processing
 description: Resolution enhancement, restoration, and image processing for remote sensing satellite imagery
-img:
+img: /assets/img/wang2013Optimal.png
 importance: 6
 category: Research
 ---
