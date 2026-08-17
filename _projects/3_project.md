@@ -2,7 +2,7 @@
 layout: page
 title: AI-Based Plant Microscopy and Plant Phenotyping
 description: Deep learning-based analysis of plant microscopic images for stomatal, root, leaf, and growth phenotyping
-img: assets/img/moonshot3-root.png
+img: /assets/img/moonshot3-root.png
 importance: 3
 category: Research
 ---
