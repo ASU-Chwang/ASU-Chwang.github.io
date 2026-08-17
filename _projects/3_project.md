@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AI-Based Plant Microscopy and Plant Phenotyping
-description: Deep learning-based analysis of plant microscopic images for stomatal, root, leaf, and growth phenotyping
+title: AI-Based Plant Microscopy and Plant Phenotyping (In MOONSHOT Goal 3)
+description: Deep learning-based analysis of plant microscopic images for stomatal, root, leaf, and growth phenotyping. A topic of MOONSHOT Goal 3.
 img: /assets/img/moonshot3-root.png
 importance: 3
 category: Research
