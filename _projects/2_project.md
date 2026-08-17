@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Confocal Microscopy Image Analysis for Vascular and Thrombus Research (A topic of MOONSHOT Goal 3: 2020-2025)
+title: Confocal Microscopy Image Analysis for Vascular and Thrombus Research (A topic of MOONSHOT Goal 3)
 description: AI-based analysis, segmentation, reconstruction, and quantitative assessment of vascular structures and thrombi
 img: assets/img/moonshot3-CLSM.png
 importance: 2
