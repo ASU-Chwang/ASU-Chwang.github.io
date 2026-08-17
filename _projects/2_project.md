@@ -1,40 +1,39 @@
 ---
 layout: page
-title: Confocal Microscopy Image Analysis for Vascular and Thrombus Research
+title: Confocal Microscopy Image Analysis for Vascular and Thrombus Research (A topic of MOONSHOT Goal 3: 2020-2025)
 description: AI-based analysis, segmentation, reconstruction, and quantitative assessment of vascular structures and thrombi
-img:
+img: assets/img/moonshot3-CLSM.png
 importance: 2
 category: Research
 ---
 
 ## Overview
 
-This project focuses on the analysis of confocal laser scanning microscopy images for quantitative investigation of vascular structures, thrombus formation, and related biological phenomena.
+This is a topic in MOONSHOT Goal 3 (Pioneering Science through the Creative Co-evolution of Humans and AI Robots) under the cooperation of Nagoya University and Tokyo University of Science. 
+
+This topic focuses on the analysis of confocal laser scanning microscopy images for quantitative investigation of vascular structures, thrombus formation, and related biological phenomena.
 
 Computer vision and deep learning techniques are used to segment biological structures, reconstruct three-dimensional vascular networks, visualize thrombi, and extract quantitative measurements from microscopy images.
 
 ## Research Topics
 
 - Confocal laser scanning microscopy image analysis
-- Blood vessel segmentation
-- Thrombus segmentation
+- Blood vessel and thrombus segmentation
 - Neutrophil localization and measurement
 - Three-dimensional blood vessel reconstruction
 - Vessel tracking
-- Thrombus visualization
 - Quantitative biological image analysis
 - Deep learning-based microscopic image segmentation
 - Transformer-based segmentation models
 
 ## Research Period
 
-2021–Present
+2021–2025
 
 ## Collaborations
 
 - Nagoya University
 - Tokyo University of Science
-- Biomedical research collaborators
 
 ## Representative Publications
 
