@@ -2,16 +2,16 @@
 layout: page
 title: AI-Based Plant Microscopy and Plant Phenotyping
 description: Deep learning-based analysis of plant microscopic images for stomatal, root, leaf, and growth phenotyping
-img:
+img: assets/img/moonshot3-root.png
 importance: 3
 category: Research
 ---
 
 ## Overview
 
-This project focuses on automated plant image analysis using computer vision and deep learning.
+This is a topic in MOONSHOT Goal 3 (Pioneering Science through the Creative Co-evolution of Humans and AI Robots) under the cooperation of Nagoya University and Tohoku University.
 
-The research aims to extract quantitative phenotypic information from microscopic and scanner-based plant images, including stomatal morphology, root architecture, leaf structure, and plant growth.
+The research topic aims to extract quantitative phenotypic information from microscopic and scanner-based plant images, including stomatal morphology, root architecture, leaf structure, and plant growth.
 
 ## Research Topics
 
@@ -28,13 +28,12 @@ The research aims to extract quantitative phenotypic information from microscopi
 
 ## Research Period
 
-2021–Present
+2021–2025
 
 ## Collaborations
 
 - Nagoya University
 - Tohoku University
-- Plant science collaborators
 
 ## Representative Publications
 
@@ -43,7 +42,9 @@ The research aims to extract quantitative phenotypic information from microscopi
 - Development of a Deep Learning-Based Automatic Root Length Measurement Tool for Automated Monitoring of Plant Growth, Botanical Society of Japan, 2023.
 - SMART: Stoma Measurement, Analysis, Report Tool for Microscope Image and Its Application in Plant Phenotyping, ICWAPR, 2024.
 - Leaf Navigated Plant Growth Measurement for Automated Plant Cultivation System, ICWAPR, 2024.
-
+## Representative Software
+- SMART: a software used to generate experimental report (with findings) from microscopy images of stomata.
+- RAPID: a software used to generate experimental report (no findings) from scanner images of root.
 ## Keywords
 
 Plant Image Analysis, Microscopic Image Analysis, Bioimaging, Plant Phenotyping, Stomatal Analysis, Root Image Analysis, Deep Learning
