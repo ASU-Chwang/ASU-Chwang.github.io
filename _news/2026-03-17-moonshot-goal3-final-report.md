@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The **MOONSHOT Goal 3 Final Report Meeting** held at the **University of Tokyo**. **Prof. Masahiro Oda** presented the research achievements of our team.
+Attended the **MOONSHOT Goal 3 Final Report Meeting** at the **University of Tokyo**, where **Prof. Masahiro Oda** presented the research achievements of our team.
