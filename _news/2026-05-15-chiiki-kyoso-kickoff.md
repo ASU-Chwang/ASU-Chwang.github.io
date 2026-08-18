@@ -21,7 +21,7 @@ The event also provided an opportunity to consider how research and technology c
 
 <div class="row justify-content-center mt-3">
   <div class="col-md-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/chiiki-kyoso-2026.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/ASU-kickoff.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
