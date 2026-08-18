@@ -58,6 +58,7 @@ The conferences also provided opportunities to exchange ideas with researchers w
     >
   </div>
 </div>
+
 <div class="caption">
   Scientific presentations and research activities during CARS 2026 and JAMIT 2026.
 </div>
@@ -90,11 +91,21 @@ These face-to-face discussions are an important part of academic meetings. They 
 
 <div class="row mt-3">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/cars-jamit-2026-3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <img
+      src="{{ '/assets/img/cars-jamit-2026-3.png' | relative_url }}"
+      class="img-fluid rounded z-depth-1"
+      style="width: 100%; height: 320px; object-fit: cover;"
+      alt="CARS 2026"
+    >
   </div>
 
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/cars-jamit-2026-4.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <img
+      src="{{ '/assets/img/cars-jamit-2026-4.png' | relative_url }}"
+      class="img-fluid rounded z-depth-1"
+      style="width: 100%; height: 320px; object-fit: cover;"
+      alt="CARS 2026"
+    >
   </div>
 </div>
 
