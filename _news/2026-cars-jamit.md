@@ -44,7 +44,7 @@ The conferences also provided opportunities to exchange ideas with researchers w
     <img
       src="{{ '/assets/img/cars-jamit-2026-1.png' | relative_url }}"
       class="img-fluid rounded z-depth-1"
-      style="width: 100%; height: 320px; object-fit: cover;"
+      style="width: 100%; height: 320px; object-fit: cover; object-position: center center;"
       alt="CARS 2026"
     >
   </div>
@@ -53,7 +53,7 @@ The conferences also provided opportunities to exchange ideas with researchers w
     <img
       src="{{ '/assets/img/cars-jamit-2026-2.png' | relative_url }}"
       class="img-fluid rounded z-depth-1"
-      style="width: 100%; height: 320px; object-fit: cover;"
+      style="width: 100%; height: 320px; object-fit: cover; object-position: center 30%;"
       alt="CARS 2026"
     >
   </div>
