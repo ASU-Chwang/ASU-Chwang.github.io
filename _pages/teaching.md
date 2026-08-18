@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 permalink: /teaching/
 description: "Teaching, research supervision, mentoring, and science outreach activities."
 nav: true
