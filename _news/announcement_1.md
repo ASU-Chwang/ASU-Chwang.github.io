@@ -41,14 +41,23 @@ The conferences also provided opportunities to exchange ideas with researchers w
 
 <div class="row mt-3">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/cars-jamit-2026-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <img
+      src="{{ '/assets/img/cars-jamit-2026-1.jpg' | relative_url }}"
+      class="img-fluid rounded z-depth-1"
+      style="width: 100%; height: 320px; object-fit: cover;"
+      alt="CARS 2026"
+    >
   </div>
 
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/cars-jamit-2026-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <img
+      src="{{ '/assets/img/cars-jamit-2026-2.jpg' | relative_url }}"
+      class="img-fluid rounded z-depth-1"
+      style="width: 100%; height: 320px; object-fit: cover;"
+      alt="CARS 2026"
+    >
   </div>
 </div>
-
 <div class="caption">
   Scientific presentations and research activities during CARS 2026 and JAMIT 2026.
 </div>
