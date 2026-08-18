@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='http://www.newves.org/wiki/'>MoriLab@Nagoya University</a> Postdoctoral Researcher at Nagoya University
 
