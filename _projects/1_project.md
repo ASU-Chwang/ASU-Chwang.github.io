@@ -7,6 +7,8 @@ description_ja: Visual SLAM、解剖学的構造解析、CT画像を用いた画
 img: /assets/img/moonshot3-bronchoscopy.png
 importance: 1
 category: Research
+permalink: /projects/bronchoscopy/
+ja_url: /ja/projects/bronchoscopy/
 ---
 
 ## Overview
