@@ -4,65 +4,59 @@ title: 研究プロジェクト
 permalink: /ja/projects/
 description: これまでに取り組んだ研究プロジェクトおよび現在進行中の研究を紹介します。
 nav: false
-display_categories: [Research]
-horizontal: false
 ---
 
 <div class="text-end mb-3">
   <a href="{{ '/projects/' | relative_url }}">English</a>
 </div>
 
-<!-- pages/projects-ja.md -->
 <div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
+
+{% assign research_projects = site.projects | where: "category", "Research" %}
+{% assign sorted_projects = research_projects | sort: "importance" %}
+
+<div class="row row-cols-1 row-cols-md-3">
+
+{% for project in sorted_projects %}
+
+  {% if project.published != false %}
+
+  <div class="col">
+
+    <a href="{{ project.url | relative_url }}" style="text-decoration: none; color: inherit;">
+
+      <div class="card h-100 hoverable">
+
+        {% if project.img %}
+        <img
+          src="{{ project.img | relative_url }}"
+          class="card-img-top"
+          alt="{{ project.title_ja | default: project.title }}"
+        >
+        {% endif %}
+
+        <div class="card-body">
+
+          <h5 class="card-title">
+            {{ project.title_ja | default: project.title }}
+          </h5>
+
+          <p class="card-text">
+            {{ project.description_ja | default: project.description }}
+          </p>
+
+        </div>
+
+      </div>
+
+    </a>
+
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
+
   {% endif %}
-  {% endfor %}
 
-{% else %}
+{% endfor %}
 
-<!-- Display projects without categories -->
+</div>
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
 </div>
