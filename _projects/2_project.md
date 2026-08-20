@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Confocal Laser Scanning Microscopy Image Analysis (MOONSHOT Goal 3)
+title_ja: 共焦点レーザー走査型顕微鏡画像解析（MOONSHOT Goal 3）
+
 description: AI-based analysis, segmentation, reconstruction, and quantitative assessment of vascular structures and thrombi. A topic of MOONSHOT Goal 3
+description_ja: 血管構造および血栓を対象としたAIによる画像解析、セグメンテーション、三次元再構成、定量評価に関する研究。MOONSHOT Goal 3の研究課題の一つ。
+
 img: /assets/img/moonshot3-CLSM.png
 importance: 2
 category: Research
