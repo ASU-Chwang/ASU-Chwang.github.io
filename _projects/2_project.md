@@ -1,54 +1,54 @@
 ---
 layout: page
-title: Bronchoscopic Navigation and Visual Tracking
-title_ja: 気管支鏡ナビゲーションと視覚トラッキング
+title: Confocal Laser Scanning Microscopy Image Analysis (MOONSHOT Goal 3)
+title_ja: 共焦点レーザー走査型顕微鏡画像解析（MOONSHOT Goal 3）
 
-description: Image-guided bronchoscopy using visual SLAM, anatomical analysis, and CT-based navigation
-description_ja: Visual SLAM、解剖学的構造解析、CT画像を用いた画像誘導型気管支鏡ナビゲーション
+description: AI-based analysis, segmentation, reconstruction, and quantitative assessment of vascular structures and thrombi. A topic of MOONSHOT Goal 3
+description_ja: 血管構造および血栓を対象としたAIによる画像解析、セグメンテーション、三次元再構成、定量評価に関する研究。MOONSHOT Goal 3の研究課題の一つ。
 
-img: /assets/img/moonshot3-bronchoscopy.png
-importance: 1
+img: /assets/img/moonshot3-CLSM.png
+importance: 2
 category: Research
 ---
 
 ## Overview
 
-This project focuses on image-guided bronchoscopic navigation using computer vision, visual SLAM, deep learning, and pre-operative CT information.
+This is a topic in MOONSHOT Goal 3 (Pioneering Science through the Creative Co-evolution of Humans and AI Robots) under the cooperation of Nagoya University and Tokyo University of Science. 
 
-The goal is to improve bronchoscope localization, tracking robustness, anatomical understanding, and navigation accuracy during bronchoscopic procedures.
+This topic focuses on the analysis of confocal laser scanning microscopy images for quantitative investigation of vascular structures, thrombus formation, and related biological phenomena.
+
+Computer vision and deep learning techniques are used to segment biological structures, reconstruct three-dimensional vascular networks, visualize thrombi, and extract quantitative measurements from microscopy images.
 
 ## Research Topics
 
-- Visual SLAM-based bronchoscope tracking
-- ORB-SLAM-based localization and reconstruction
-- Robust feature matching and outlier elimination
-- Bronchial orifice segmentation and tracking
-- Bronchial branching-level estimation
-- Bronchial anatomical structure analysis
-- Bronchoscope-to-CT registration
-- Bronchial nomenclature estimation
-- Navigation path generation
-- Depth estimation from bronchoscopic images
+- Confocal laser scanning microscopy image analysis
+- Blood vessel and thrombus segmentation
+- Neutrophil localization and measurement
+- Three-dimensional blood vessel reconstruction
+- Vessel tracking
+- Quantitative biological image analysis
+- Deep learning-based microscopic image segmentation
+- Transformer-based segmentation models
 
 ## Research Period
 
-2016–Present
+2021–2025
 
 ## Collaborations
 
 - Nagoya University
-- Olympus Corporation
-- Clinical collaborators in bronchoscopy and respiratory medicine
+- Tokyo University of Science
 
 ## Representative Publications
 
-- Visual SLAM for Bronchoscope Tracking and Bronchus Reconstruction in Bronchoscopic Navigation, SPIE Medical Imaging, 2019.
-- Improved Visual SLAM for Bronchoscope Tracking and Registration with Pre-operative CT Images, SPIE Medical Imaging, 2020.
-- Bronchial Orifice Segmentation on Bronchoscopic Video Frames Based on Generative Adversarial Depth Estimation, SPIE Medical Imaging, 2021.
-- Bronchial Orifice Tracking-based Branch Level Estimation for Bronchoscopic Navigation, SPIE Medical Imaging, 2022.
-- Anatomy Aware-based 2.5D Bronchoscope Tracking for Image-guided Bronchoscopic Navigation, Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, 2023.
-- Real Bronchoscopic Images-based Bronchial Nomenclature: A Preliminary Study, SPIE Medical Imaging, 2023.
+- Blood Vessel Segmentation from Low-Contrast and Wide-Field Optical Microscopic Images of Cranial Window by Attention-Gate-Based Network, CVPR Workshops, 2022.
+- Anatomical Structure-constrained Thrombus Region Segmentation and Measurement Using Confocal Laser Scanning Microscopic Images, SPIE Medical Imaging, 2024.
+- Preliminary Study on Neutrophil Localization and Measurement in Confocal Laser Scanning Microscope Images, CARS, 2024.
+- Prior Knowledge-based Blood Vessel Reconstruction and Thrombus Visualization Using Confocal Laser Scanning Microscopic Images, SPIE Medical Imaging, 2025.
+- Three-Dimensional Blood Vessel Structure Reconstruction from Confocal Laser Scanning Microscopy Images Based on Vessel Tracking, JAMIT, 2025.
+- Blood Vessel and Thrombus Segmentation from Images Using an Encoder-Decoder Model with Transformer, JSCAS, 2025.
+- Generation of Comparative Thrombosis Reports from Confocal Laser-Scanning Microscope Images Using Large Language Models, SPIE Medical Imaging, 2026.
 
 ## Keywords
 
-Bronchoscopic Navigation, Visual SLAM, Computer-Assisted Intervention, Bronchoscope Tracking, Medical Image Analysis, Computer Vision, Deep Learning, CT Registration
+Confocal Microscopy, Bioimaging, Biological Image Analysis, Blood Vessel Segmentation, Thrombus Analysis, 3D Reconstruction, Deep Learning, Transformer
