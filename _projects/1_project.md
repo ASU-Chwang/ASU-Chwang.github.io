@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Bronchoscopic Navigation and Visual Tracking
+title_ja: 気管支鏡ナビゲーションと視覚トラッキング
 description: Image-guided bronchoscopy using visual SLAM, anatomical analysis, and CT-based navigation
+description_ja: Visual SLAM、解剖学的構造解析、CT画像を用いた画像誘導型気管支鏡ナビゲーション
 img: /assets/img/moonshot3-bronchoscopy.png
 importance: 1
 category: Research
