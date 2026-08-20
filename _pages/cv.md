@@ -9,4 +9,7 @@ cv_format: rendercv # options: rendercv, jsonresume
 description: This is an academic CV of Wang Cheng.
 toc:
   sidebar: left
+<div class="text-end mb-3">
+  <a href="{{ '/ja/cv/' | relative_url }}">日本語</a>
+</div>
 ---
