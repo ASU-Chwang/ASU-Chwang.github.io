@@ -10,6 +10,9 @@ description_ja: 3次元医用画像を対象とした医療レポート自動生
 img:
 importance: 4
 category: Research
+
+permalink: /projects/medical-vlm/
+ja_url: /ja/projects/medical-vlm/
 ---
 
 ## Overview
