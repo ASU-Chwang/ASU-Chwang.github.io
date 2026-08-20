@@ -8,7 +8,9 @@ nav_order: 3
 display_categories: [Research]
 horizontal: false
 ---
-
+<div class="text-end mb-3">
+  <a href="{{ '/ja/projects/' | relative_url }}">日本語</a>
+</div>
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
