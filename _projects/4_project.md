@@ -2,7 +2,11 @@
 published: false
 layout: page
 title: Vision-Language Models for Automated Medical Report Generation
+title_ja: 医療レポート自動生成のためのVision-Language Model
+
 description: Multimodal AI for medical report generation, medical VQA, and clinical text generation from 3D medical images
+description_ja: 3次元医用画像を対象とした医療レポート自動生成、Medical VQA、臨床テキスト生成のためのマルチモーダルAIに関する研究
+
 img:
 importance: 4
 category: Research
