@@ -9,6 +9,9 @@ description_ja: 血管構造および血栓を対象としたAIによる画像�
 img: /assets/img/moonshot3-CLSM.png
 importance: 2
 category: Research
+
+permalink: /projects/confocal-microscopy/
+ja_url: /ja/projects/confocal-microscopy/
 ---
 
 ## Overview
