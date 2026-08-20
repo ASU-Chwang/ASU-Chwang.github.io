@@ -26,7 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
+<div class="text-end mb-3">
+  <a href="/ja/">日本語</a>
+</div>
 Cheng Wang received his Ph.D. in Information Science from Nagoya University in 2021 and is currently a Postdoctoral Researcher at Nagoya University, Japan. His research focuses on medical and biomedical image analysis, computer vision, and artificial intelligence for healthcare and life-science applications.
 
 His current research includes computer-assisted intervention and bronchoscopic navigation, confocal microscopy image analysis, three-dimensional reconstruction of biological structures, plant phenotyping, and AI-based analysis of medical and biomedical images. He is also working on vision-language models and large multimodal models for automated medical report generation and medical visual question answering.
