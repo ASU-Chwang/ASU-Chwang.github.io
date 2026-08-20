@@ -32,7 +32,7 @@ The activity was designed to help students understand how medical images can be 
 
 <div class="row justify-content-center mt-3">
   <div class="col-md-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/hirameki-2026-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/hirameki-2026-1.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
@@ -50,19 +50,6 @@ Their assistance with student guidance, hands-on exercises, and communication he
 
 The cooperation among laboratory members was an important part of creating an effective and enjoyable learning environment.
 
-<div class="row mt-3">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/hirameki-2026-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/hirameki-2026-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-</div>
-
-<div class="caption">
-  Students and laboratory members during the hands-on science outreach activities.
-</div>
 
 ---
 
@@ -90,6 +77,19 @@ Although unexpected technical issues can occur during practical educational acti
 
 The program received positive feedback, and it was particularly encouraging to see the students actively engage with the bronchial structures and AI-based image analysis.
 
+<div class="row mt-3">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/hirameki-2026-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/hirameki-2026-3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+
+<div class="caption">
+  One of bronchus printed by 3D printer and the customized imprint (this student likes music).
+</div>
 Their interest and serious attitude made the two-day program a rewarding experience for both the participants and the organizers.
 
 I hope that this kind of hands-on activity can continue to provide young students with opportunities to experience how artificial intelligence, medical imaging, and computer science can be connected to real research.
