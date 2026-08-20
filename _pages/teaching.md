@@ -8,7 +8,9 @@ nav_order: 5
 lang: en
 translation_url: /ja/teaching/
 ---
-
+<div class="text-end mb-3">
+  <a href="{{ '/ja/teaching/' | relative_url }}">日本語</a>
+</div>
 ## Teaching & Mentoring
 
 My teaching and mentoring experience spans mathematics education, research supervision, and science outreach. I have worked with high school students, undergraduate and graduate students, and participants in public science education programs.
