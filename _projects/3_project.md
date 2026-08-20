@@ -9,6 +9,9 @@ description_ja: 気孔、根、葉、植物成長を対象とした深層学習�
 img: /assets/img/moonshot3-root.png
 importance: 3
 category: Research
+
+permalink: /projects/plant-phenotyping/
+ja_url: /ja/projects/plant-phenotyping/
 ---
 
 ## Overview
