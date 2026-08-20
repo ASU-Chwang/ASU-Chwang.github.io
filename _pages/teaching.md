@@ -5,6 +5,8 @@ permalink: /teaching/
 description: "Teaching, research supervision, mentoring, and science outreach activities."
 nav: true
 nav_order: 5
+lang: en
+translation_url: /ja/teaching/
 ---
 
 ## Teaching & Mentoring
