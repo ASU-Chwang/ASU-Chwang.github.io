@@ -1,1 +1,158 @@
-tes
+cv:
+  name: 王 成
+  label: 博士研究員
+  email: chwang@mori.m.is.nagoya-u.ac.jp
+  location: 名古屋，日本
+  image: ""
+
+  summary: >
+    名古屋大学の博士研究員として、医用・バイオメディカル画像解析、
+    コンピュータビジョン、深層学習、Vision-Language Modelに関する研究に従事しています。
+    主な研究分野は、コンピュータ支援診断・治療、気管支鏡ナビゲーション、
+    顕微鏡画像解析、植物フェノタイピング、およびAIを用いた医療レポート自動生成です。
+
+  social_networks:
+    - network: GitHub
+      username: ngo-Chwang
+
+  address:
+    street: 名古屋大学 南部地区 466室、不老町、千種区
+    city: 名古屋市
+    region: 愛知県
+    postalCode: 464-8601
+    countryCode: Japan
+
+  sections:
+    学歴:
+      - institution: 名古屋大学
+        location: 名古屋，日本
+        url: https://www.nagoya-u.ac.jp/
+        area: 情報科学
+        studyType: 博士（情報科学）
+        start_date: 2016-10
+        end_date: 2021-09
+
+      - institution: 名古屋大学
+        location: 名古屋，日本
+        url: https://www.nagoya-u.ac.jp/
+        area: 情報科学
+        studyType: 研究生
+        start_date: 2015-10
+        end_date: 2016-03
+
+      - institution: 日本留学予備学校
+        location: 長春，中国
+        area: 日本語
+        studyType: 日本語研修課程
+        start_date: 2014-09
+        end_date: 2015-09
+
+      - institution: 長春理工大学
+        location: 長春，中国
+        area: コンピュータ応用技術
+        studyType: 修士
+        start_date: 2011-09
+        end_date: 2014-04
+
+      - institution: 斉斉哈爾大学
+        location: 斉斉哈爾，中国
+        area: 数学・応用数学（教員養成課程）
+        studyType: 学士
+        start_date: 2007-09
+        end_date: 2011-07
+
+    職歴:
+      - company: 名古屋大学
+        position: 博士研究員
+        location: 名古屋，日本
+        start_date: 2021-10
+        end_date: present
+        summary: >
+          医用・バイオメディカル画像解析、コンピュータビジョン、
+          深層学習、およびマルチモーダル人工知能に関する研究に従事しています。
+        highlights:
+          - コンピュータ支援診断・治療および気管支鏡ナビゲーション
+          - 顕微鏡画像およびバイオメディカル画像解析
+          - Vision-Language Modelおよび医療レポート自動生成
+          - 医用・生体画像を対象とした深層学習
+
+    研究経験:
+      - company: 中国科学院 長春光学精密機械与物理研究所
+        location: 長春，中国
+        position: 共同研究
+        start_date: 2011-10
+        end_date: present
+        highlights:
+          - リモートセンシング画像の空間分解能向上
+
+      - company: オリンパス株式会社
+        location: 日本
+        position: 共同研究
+        start_date: 2017-07
+        end_date: present
+        highlights:
+          - 映像情報を用いた新しい気管支鏡ナビゲーションシステムの開発
+
+      - company: 東京理科大学
+        location: 日本
+        position: 共同研究
+        start_date: 2021-10
+        end_date: present
+        highlights:
+          - 共焦点レーザー走査型顕微鏡画像を用いた生体構造解析および三次元再構成
+
+      - company: 名古屋大学・東北大学
+        location: 日本
+        position: 共同研究
+        start_date: 2021-10
+        end_date: present
+        highlights:
+          - 葉、根、気孔などの植物構造を対象とした顕微鏡画像解析および植物フェノタイピング
+
+    受賞・奨学金:
+      - title: 大学生NAOオンラインプログラミングコンテスト 三等賞
+        date: 2013-04
+        awarder: University Student NAO Online Programming Contest
+
+      - title: 大学院生機械知能チャレンジ 優秀賞
+        date: 2013-04
+        awarder: 長春理工大学
+
+      - title: 吉林省優秀修士学位論文
+        date: 2014-04
+        awarder: 中国 吉林省
+
+      - title: 日本政府（文部科学省）奨学金
+        date: 2015-07
+        awarder: 文部科学省（MEXT）
+
+      - title: Best Paper Award
+        date: 2023-08
+        awarder: The 15th International Association for Plant Biotechnology Congress
+        summary: >
+          深層学習を用いた植物根の自動検出および計測に関する研究に関連する受賞。
+
+      - title: Poster Award
+        date: 2025-02
+        awarder: International Forum on Medical Imaging in Asia (IFMIA 2025)
+        summary: >
+          腹部CT所見レポートからのRLHFに基づく質問・回答ペア生成に関する
+          受賞研究の共著者として参加。
+
+    スキル:
+      - name: 研究分野
+        level: Advanced
+        icon: fa-solid fa-flask
+        keywords: >
+          医用画像解析、バイオメディカル画像解析、
+          コンピュータビジョン、深層学習、Vision-Language Model、
+          コンピュータ支援診断・治療、気管支鏡ナビゲーション、
+          顕微鏡画像解析、植物フェノタイピング
+
+    研究関心:
+      - name: 医療・バイオメディカル人工知能
+        icon: fa-solid fa-tag
+        keywords: >
+          医用画像解析、コンピュータ支援診断・治療、
+          マルチモーダルAI、Vision-Language Model、
+          顕微鏡画像解析、医療レポート自動生成
