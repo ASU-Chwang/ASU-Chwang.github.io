@@ -18,43 +18,35 @@ nav: false
 <div class="row row-cols-1 row-cols-md-3">
 
 {% for project in sorted_projects %}
+{% if project.published != false %}
 
-  {% if project.published != false %}
+<div class="col mb-4">
+  <div class="card h-100 hoverable">
 
-  <div class="col">
+    {% if project.img %}
+    <img
+      src="{{ project.img | relative_url }}"
+      class="card-img-top"
+      alt="{{ project.title_ja | default: project.title }}"
+    >
+    {% endif %}
 
-    <a href="{{ project.url | relative_url }}" style="text-decoration: none; color: inherit;">
+    <div class="card-body">
 
-      <div class="card h-100 hoverable">
+      <h5 class="card-title">
+        {{ project.title_ja | default: project.title }}
+      </h5>
 
-        {% if project.img %}
-        <img
-          src="{{ project.img | relative_url }}"
-          class="card-img-top"
-          alt="{{ project.title_ja | default: project.title }}"
-        >
-        {% endif %}
+      <p class="card-text">
+        {{ project.description_ja | default: project.description }}
+      </p>
 
-        <div class="card-body">
-
-          <h5 class="card-title">
-            {{ project.title_ja | default: project.title }}
-          </h5>
-
-          <p class="card-text">
-            {{ project.description_ja | default: project.description }}
-          </p>
-
-        </div>
-
-      </div>
-
-    </a>
+    </div>
 
   </div>
+</div>
 
-  {% endif %}
-
+{% endif %}
 {% endfor %}
 
 </div>
