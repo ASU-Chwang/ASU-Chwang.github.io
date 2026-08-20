@@ -13,7 +13,7 @@ profile:
   more_info: >
     <p>052-789-5688</p>
     <p>〒464-8601 愛知県名古屋市千種区不老町</p>
-    <p>名古屋大学 南部地区 466室</p>
+    <p>名古屋大学 IB館南館 466室</p>
 
 selected_papers: true
 social: true
