@@ -9,6 +9,9 @@ description_ja: リモートセンシング衛星画像を対象とした空間�
 img: /assets/img/wang2013Optimal.png
 importance: 6
 category: Research
+
+permalink: /projects/remote-sensing/
+ja_url: /ja/projects/remote-sensing/
 ---
 
 ## Overview
