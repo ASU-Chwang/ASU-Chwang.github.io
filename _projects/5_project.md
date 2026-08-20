@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Remote Sensing Satellite Image Processing
+title_ja: リモートセンシング衛星画像処理
+
 description: Resolution enhancement, restoration, and image processing for remote sensing satellite imagery
+description_ja: リモートセンシング衛星画像を対象とした空間分解能向上、画像復元、および画像処理に関する研究
+
 img: /assets/img/wang2013Optimal.png
 importance: 6
 category: Research
